@@ -5,6 +5,10 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: rgba(252, 249, 249, 0.801);
+    margin: 0;
+}
+.container{
+    width: 100%;
 }
 hr{
     border: 1px solid lightgray;
